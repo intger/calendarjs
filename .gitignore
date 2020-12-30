@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!README.md
+!style.css
+!calendar.js
+!index.html
+!package.json
+!package-lock.json
+
